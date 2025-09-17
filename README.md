@@ -153,14 +153,7 @@ pip install pandas numpy matplotlib seaborn jupyter
 3. Open and run:
    `COVID-19_Data_analysis.ipynb`
 
----
 
-## 📑 Dataset Sources
-
-* **COVID-19 Data**: [Johns Hopkins University CSSE](https://github.com/CSSEGISandData/COVID-19)
-* **World Happiness Report**: [Kaggle Dataset](https://www.kaggle.com/unsdsn/world-happiness)
-
----
 
 ## 📧 Contact
 
